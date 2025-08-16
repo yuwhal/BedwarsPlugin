@@ -1,0 +1,7 @@
+name: Bedwars
+version: 1.0
+main: org.example.Main
+api-version: 1.20
+commands:
+  bw:
+    description: Bedwars 테스트용 명령어
